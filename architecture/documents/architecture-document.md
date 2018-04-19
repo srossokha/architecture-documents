@@ -1,4 +1,4 @@
-#Software Architecture Document
+# Software Architecture Document
 
 One of the best way to describe software architecture is using C4 model for software architecture. This model is based on the four levels:
 * Context
@@ -12,14 +12,14 @@ Each next level is a detalization of the previous one
 
 [Click here](./Software%20Architecture%20Document.docx) ___to download Software Architecture Document Template___
 
-##Context
+## Context
 A context section should answer the following types of questions: 
 * What is this software project/product/system all about?
 * What is it that’s being built?
 * How does it fit into the existing environment? (e.g. systems, business processes, etc)
 * Who is using it? (users, roles, actors, personas, etc)
 
-##Functional Overview
+## Functional Overview
 This section allows you to summarize what the key functions of the system are. It also allows you to make an explicit link between the functional aspects of the system (use cases, user stories, etc) and, if they are significant to the architecture, to explain why. A functional overview should answer the following types of questions: 
 * Is it clear what the system actually does? 
 * Is it clear which features, functions, use cases, user stories, etc are significant to the architecture and why? 
@@ -30,7 +30,7 @@ Alternatively, ___if your software automates a business process or workflow, a f
 * Is it clear what the system does from a process perspective?
 * What are the major processes and flows of information through the system?
 
-##Quality Attributes 
+## Quality Attributes 
 This section is about summarizing the key quality attributes and should answer the following types of questions: 
 * Is there a clear understanding of the quality attributes that the architecture must satisfy?
 * Are the quality attributes SMART (specific, measurable, achievable, relevant and timely)?
@@ -58,7 +58,7 @@ Examples include:
 * Accessibility
 * Usability and etc. 
 
-##Constraints
+## Constraints
 Constraints are typically imposed upon you but they aren’t necessarily “bad”, as reducing the number of available options often makes your job designing software easier. This section allows you to explicitly summarize the constraints that you’re working within and the decisions that have already been made for you. 
 
 ___As with the quality attributes, simply listing the known constraints and briefly summarizing them will work.___
@@ -79,7 +79,7 @@ Example constraints include:
 * Use of internal intellectual property and etc.
 
 
-##Principles
+## Principles
 The purpose of this section is to simply make it explicit which principles you are following. These could have been explicitly asked for by a stakeholder or they could be principles that you (i.e. the software development team) want to adopt and follow. If you have an existing set of software development principles (e.g. on a development wiki), by all means simply reference it. Otherwise, list out the principles that you are following and accompany each with a short explanation or link to further information. 
 
 Example principles include:
@@ -102,7 +102,7 @@ Example principles include:
 * Common approaches for error handling, logging, etc.
 * Buy rather than build and etc.
 
-##Software Architecture
+## Software Architecture
 The purpose of this section is to summarize the software architecture of your software system so that the following questions can be answered: 
 * What does the “big picture” look like? 
 * Is there are clear structure? 
@@ -115,7 +115,7 @@ ___Use the C4 container and component diagrams from as the main focus for this s
 
 Sometimes UML sequence or collaboration diagrams showing component interactions can be a useful way to illustrate how the software satisfies the major use cases/user stories/etc.
 
-##External Interfaces
+## External Interfaces
 The purpose of this section is to answer the following types of questions: 
 * What are the key external interfaces? 
 	-  e.g. between your system and other systems (whether they are internal or external to your environment) 
@@ -137,7 +137,7 @@ The purpose of this section is to answer the following types of questions:
 * How often does the interface change and how is versioning handled?
 * Are there any service-level agreements in place?
 
-##Code
+## Code
 The purpose of the code section is to describe the implementation details for parts of the software system that are important, complex, significant, etc. For example, I’ve written about the following for software projects that I’ve been involved in:
 * Generating/rendering HTML: a short description of an in-house framework that was created for generating HTML, including the major classes and concepts. 
 * Data binding: our approach to updating business objects as the result of HTTP POST requests. 
@@ -151,7 +151,7 @@ The purpose of the code section is to describe the implementation details for pa
 * Exception sand logging: a summary of our approach to exception handling and logging across the various architectural layers.
 * Patterns and principles: an explanation of how patterns and principles are implemented and etc.
 
-##Data 
+## Data 
 The purpose of the data section is to record anything that is important from a data perspective, answering the following types of questions: 
 What does the data model look like? 
 Where is data stored? 
@@ -163,7 +163,7 @@ Likewise for log files and audit trails?
 Are flat files being used for storage? If so, what format is being used?
 
 
-##Infrastructure Architecture
+## Infrastructure Architecture
 This section is used to describe the physical/virtual hardware and networks on which the software will be deployed. Although, as a software architect, you may not be involved in designing the infrastructure, you do need to understand that it’s sufficient to enable you to satisfy your goals. The purpose of this section is to answer the following types of questions:
 * Is there a clear physical architecture?
 * What hardware (virtual or physical) does this include across all tiers?
@@ -177,7 +177,7 @@ This section is used to describe the physical/virtual hardware and networks on w
 
 The main focus for this section is usually an infrastructure/network diagram showing the various hardware/network components and how they fit together, with a short narrative to accompany the diagram.
 
-##Deployment
+## Deployment
 This section is used to describe the mapping between the software (e.g. containers) and the infrastructure. Sometimes this will be a simple one-to-one mapping (e.g. deploy a web application to a single web server) and at other times it will be more complex (e.g. deploy a web application across a number of servers in a server farm). This section answers the following types of questions:
 * How and where is the software installed and configured?
 * Is it clear how the software will be deployed across the infrastructure elements described in the infrastructure architecture section? (e.g. one-to-one mapping, multiple containers per server, etc)
@@ -192,7 +192,7 @@ ___There are a few ways to structure this section:___
 * __Tables__: simple textual tables that show the mapping between software containers and/or components with the infrastructure they will be deployed on.
 * __Diagrams__: UML deployment diagrams or modified versions of the diagrams from the infrastructure architecture section showing where software will be running.
 
-##Operation and Support
+## Operation and Support
 Most systems will be subject to support and operational requirements, particularly around how they are monitored, managed and administered. Including a dedicated section in the software guidebook lets you be explicit about how your software will or does support those requirements. This section should address the following types of questions:
 * Is it clear how the software provides the ability for operation/support teams to monitor and manage the system?
 * How is this achieved across all tiers of the architecture?
@@ -203,7 +203,7 @@ JMX, WMI, custom diagnostics, etc)
 * Are there any manual house keeping tasks that need to be performed on a regular basis?
 * Does old data need to be periodically archived?
 
-##Development Environment
+## Development Environment
 The purpose of this section is to provide instructions that take somebody from a blank operating system installation to a fully-fledged development environment. 
 
 The type of things you might want to include are:
@@ -220,7 +220,7 @@ The type of things you might want to include are:
 
 If you’re using automated solutions (such as Vagrant, Docker, Puppet, Chef, Rundeck, etc), it’s still worth including some brief information about how these solutions work, where to find the scripts and how to run them.
 
-##Decision Log
+## Decision Log
 The purpose of this section is to simply record the major decisions that have been made, including both the technology choices (e.g. products, frameworks, etc) and the overall architecture (e.g. the structure of the software, architectural style, decomposition, patterns, etc). 
 
 For example:
