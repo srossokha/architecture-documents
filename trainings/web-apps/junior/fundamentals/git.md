@@ -7,5 +7,12 @@
 3. [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Tasks
-1. Create an account on GitHub
-2. Complete github [course](https://try.github.io/levels/1/challenges/1)
+
+### GitHub
+> Create an account on GitHub
+
+### Course
+> Complete github [course](https://try.github.io/levels/1/challenges/1)
+
+### Community
+> Find any project on GitHub and open a few PR's. (Look for any open issues that you can fix, refactor code, fix UI's and etc.)

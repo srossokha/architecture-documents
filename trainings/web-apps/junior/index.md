@@ -23,6 +23,7 @@ The training program for juniors mainly based on Front-end developers roadmap. T
 
 ## Module: Web Applications
 
+1. [**DevTools for Web Apps**](./webapps/devtools.md)
 1. [**PWA**](./webapps/pwa.md)
 
 
