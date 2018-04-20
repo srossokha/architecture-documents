@@ -2,21 +2,13 @@
 
 ## Frontend
 
-![](./assets/empty.png)
-![Basic](./assets/basic.png)
-![Intermediate](./assets/intermediate.png)
-![Advanced](./assets/advanced.png)
-![Expert](./assets/expert.png)
-
-
-
 ### **Analysis and Design**
 |            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
 | ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
 | OOP | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
-| OOD | ![Basic](./assets/empty.png) | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
-| SOLID principles | ![Basic](./assets/empty.png) | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
-| Design patterns | ![Basic](./assets/empty.png) | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| OOD |  | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| SOLID principles |  | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| Design patterns |  | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
 
 ### **JavaScript**
 
@@ -26,7 +18,7 @@
 | Async programming | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/expert.png) | ![Expert](./assets/expert.png) |
 | DOM manipulation | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/expert.png) | ![Expert](./assets/expert.png) |
 | Web Components | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
-| Workers | ![Basic](./assets/empty.png) | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| Workers |  | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
 | Storages | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
 | ES 6/2015 | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/advanced.png) |
 
@@ -43,7 +35,7 @@
 |            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
 | ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
 | REST API | ![Basic](./assets/basic.png) | ![Intermediate](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
-| Offline mode | ![](./assets/empty.png) | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) |
+| Offline mode |  | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) |
 
 
 ### **Frameworks**
@@ -55,6 +47,6 @@
 ### **Deployment**
 |            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
 | ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
-| Continious Integration | ![](./assets/empty.png) | ![Basic](./assets/basic.png) |  ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| Continious Integration |  | ![Basic](./assets/basic.png) |  ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
 | Gulp | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png)  | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/advanced.png) |
 | Webpack | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png)  | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/advanced.png) |
