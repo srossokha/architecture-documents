@@ -2,274 +2,59 @@
 
 ## Frontend
 
+![](./assets/empty.png)
+![Basic](./assets/basic.png)
+![Intermediate](./assets/intermediate.png)
+![Advanced](./assets/advanced.png)
+![Expert](./assets/expert.png)
+
+
+
 ### **Analysis and Design**
-<table>
-    <thead>
-        <tr>
-            <td style='width:200px;'></td>
-            <td style='width:100px;'>Junior</td>
-            <td style='width:100px;'>Intermediate</td>
-            <td style='width:100px;'>Advanced</td>
-            <td style='width:100px;'>Seniour</td>
-            <td style='width:100px;'>Architect</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>OOP</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>OOD</td>
-            <td></td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>SOLID principles</td>
-            <td></td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>Design patterns</td>
-            <td></td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-    </tbody>
-</table>
+|            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
+| ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
+| OOP | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| OOD | ![Basic](./assets/empty.png) | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| SOLID principles | ![Basic](./assets/empty.png) | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| Design patterns | ![Basic](./assets/empty.png) | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
 
 ### **JavaScript**
-<table>
-    <thead>
-        <tr>
-            <td style='width:200px;'></td>
-            <td style='width:100px;'>Junior</td>
-            <td style='width:100px;'>Intermediate</td>
-            <td style='width:100px;'>Advanced</td>
-            <td style='width:100px;'>Seniour</td>
-            <td style='width:100px;'>Architect</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Functions and closures</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>Async programming</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>DOM manipulation</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>Web Components</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>Workers</td>
-            <td></td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>Storages</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>ES 6/2015</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advance</td>
-            <td style='background: yellow;'>Advance</td>
-        </tr>
-    </tbody>
-</table>
+
+|            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
+| ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
+| Functions and closures | ![Basic](./assets/intermediate.png) | ![Intermediate](./assets/advanced.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/expert.png) | ![Expert](./assets/expert.png) |
+| Async programming | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/expert.png) | ![Expert](./assets/expert.png) |
+| DOM manipulation | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/expert.png) | ![Expert](./assets/expert.png) |
+| Web Components | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| Workers | ![Basic](./assets/empty.png) | ![Intermediate](./assets/basic.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| Storages | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| ES 6/2015 | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/advanced.png) |
 
 ### **Security**
-<table>
-    <thead>
-        <tr>
-            <td style='width:200px;'></td>
-            <td style='width:100px;'>Junior</td>
-            <td style='width:100px;'>Intermediate</td>
-            <td style='width:100px;'>Advanced</td>
-            <td style='width:100px;'>Seniour</td>
-            <td style='width:100px;'>Architect</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>HTTP/HTTPS</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-        <tr>
-            <td>OAuth</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-        <tr>
-            <td>CORS</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-        <tr>
-            <td>Injections</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-    </tbody>
-</table>
+|            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
+| ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
+| HTTP/HTTPS | ![Basic](./assets/basic.png) | ![Intermediate](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) |
+| Async programming | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Intermediate](./assets/intermediate.png) | ![Expert](./assets/expert.png) | ![Expert](./assets/expert.png) |
+| CORS | ![Basic](./assets/basic.png) | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) |
+| Injections | ![Basic](./assets/basic.png) | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) |
+
 
 ### **Network**
-<table>
-    <thead>
-        <tr>
-            <td style='width:200px;'></td>
-            <td style='width:100px;'>Junior</td>
-            <td style='width:100px;'>Intermediate</td>
-            <td style='width:100px;'>Advanced</td>
-            <td style='width:100px;'>Seniour</td>
-            <td style='width:100px;'>Architect</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>REST API</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>Offline mode</td>
-            <td></td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-    </tbody>
-</table>
+|            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
+| ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
+| REST API | ![Basic](./assets/basic.png) | ![Intermediate](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| Offline mode | ![](./assets/empty.png) | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) |
+
 
 ### **Frameworks**
-<table>
-    <thead>
-        <tr>
-            <td style='width:200px;'></td>
-            <td style='width:100px;'>Junior</td>
-            <td style='width:100px;'>Intermediate</td>
-            <td style='width:100px;'>Advanced</td>
-            <td style='width:100px;'>Seniour</td>
-            <td style='width:100px;'>Architect</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Angular</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-        <tr>
-            <td>ReactJS</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-    </tbody>
-</table>
+|            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
+| ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
+| Angular | ![Basic](./assets/basic.png) |  ![Intermediate](./assets/intermediate.png) | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| ReactJS | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png)  | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/advanced.png) |
 
 ### **Deployment**
-<table>
-    <thead>
-        <tr>
-            <td style='width:200px;'></td>
-            <td style='width:100px;'>Junior</td>
-            <td style='width:100px;'>Intermediate</td>
-            <td style='width:100px;'>Advanced</td>
-            <td style='width:100px;'>Seniour</td>
-            <td style='width:100px;'>Architect</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Continious Integration</td>
-            <td></td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: lightgreen;'>Expert</td>
-        </tr>
-        <tr>
-            <td>Gulp</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-        <tr>
-            <td>Webpack</td>
-            <td style='background: red;'>Basic</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: orange;'>Intermediate</td>
-            <td style='background: yellow;'>Advanced</td>
-            <td style='background: yellow;'>Advanced</td>
-        </tr>
-    </tbody>
-</table>
+|            |    Junior  | Intermediate |   Advanced   |    Seniour   |   Architect  |
+| ---------- | ---------- | ------------ | ------------ | ------------ | ------------ |
+| Continious Integration | ![](./assets/empty.png) | ![Basic](./assets/basic.png) |  ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Expert](./assets/expert.png) |
+| Gulp | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png)  | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/advanced.png) |
+| Webpack | ![Basic](./assets/basic.png) | ![Intermediate](./assets/intermediate.png)  | ![Intermediate](./assets/intermediate.png) | ![Advanced](./assets/advanced.png) | ![Advanced](./assets/advanced.png) |
