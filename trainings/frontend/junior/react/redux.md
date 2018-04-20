@@ -1,4 +1,4 @@
-# Module: `Redux`
+# Topic: `Redux`
 
 
 ## Materials

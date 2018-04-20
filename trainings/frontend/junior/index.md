@@ -8,17 +8,19 @@ The training program for juniors mainly based on Front-end developers roadmap. T
 
 
 ## Module: Web Fundamentals
-
+1. [**Produc Vision, Agile, ...**](https://dev.to/lpasqualis/product-vision-agile-and-going-to-the-moon-1li2) 
 1. [**Git**](./fundamentals/git.md)
 2. [**HTML&CSS**](./fundamentals/html-css.md)
 3. [**Javascript Core**](./fundamentals/js-core.md)
 4. [**Development Tools**](./fundamentals/devtools.md)
+
 
 ## Module: Advanced Javascript
 
 1. [**ES6&ES2015**](./advance/esnext.md)
 2. [**Storage API**](./advance/storageapi.md)
 3. [**Canvas API**](./advance/canvasapi.md)
+4. [**Data Structures**](./advance/datastructures.md)
 
 
 ## Module: Web Applications

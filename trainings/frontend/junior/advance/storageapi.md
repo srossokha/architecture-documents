@@ -1,4 +1,4 @@
-# Module: `Storage API`
+# Topic: `Storage API`
 
 ## Materials
 1. [Basics](https://medium.com/@ramsunvtech/onfocus-html5-storage-apis-b45d92aa424b)

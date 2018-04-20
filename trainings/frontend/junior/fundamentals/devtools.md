@@ -1,4 +1,4 @@
-# Module: `Development Tools`
+# Topic: `Development Tools`
 
 ## Materials
 1. [Webpack](https://webpack.js.org/guides/getting-started/)

@@ -1,4 +1,4 @@
-# Module: `MobX`
+# Topic: `MobX`
 
 
 ## Materials

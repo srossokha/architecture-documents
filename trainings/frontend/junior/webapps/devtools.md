@@ -1,4 +1,4 @@
-# Module: `DevTools for Web Apps`
+# Topic: `DevTools for Web Apps`
 
 ## Materials
 1. [Yarn](https://yarnpkg.com/en/docs/getting-started)

@@ -1,4 +1,4 @@
-# Module: `JavaScript`
+# Topic: `JavaScript`
 
 ## Materials
 
