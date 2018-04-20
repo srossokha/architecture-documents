@@ -1,5 +1,12 @@
 # Junior Javascript Developer Training Materials
 
+## Front-end developer roadmap
+
+The training program for juniors mainly based on Front-end developers roadmap. The latest version of the roadmap could be found [here](https://github.com/kamranahmedse/developer-roadmap)
+
+![Front-end developer roadmap](./assets/frontend.png "Front-end developer roadmap")
+
+
 ## Module: Web Fundamentals
 
 1. [**Git**](./fundamentals/git.md)
