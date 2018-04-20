@@ -8,11 +8,15 @@
 
 ### 1. Course
 > Complete free [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
+
 ### 2. Course
->Complete free [flexbox.io](https://flexbox.io) training
+> Complete free [flexbox.io](https://flexbox.io) training
+
+### 3. Course
+> Watch [video course](https://www.youtube.com/playlist?list=PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO) how to work with DOM from JavaScript.
 
 ### 2. Flex Calendar
->Build a simple responsive one day calendar page to show fake events using flexbox
+> Build a simple responsive one day calendar page to show fake events using flexbox
 
 ### 3. Grid Calendar
->Build a simple responsive one day calendar page to show fake events using css grid
+> Build a simple responsive one day calendar page to show fake events using css grid

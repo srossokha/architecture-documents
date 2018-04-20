@@ -14,5 +14,8 @@
 
 ## Tasks
 
+### Course
+> Watch [ES6](https://www.youtube.com/playlist?list=PLWKjhJtqVAbljtmmeS0c-CEl2LdE-eR_F) video course.
+
 #### Feed Reader
->You'll need to build a complete browser-based Feed Reader
+> You'll need to build a complete browser-based Feed Reader

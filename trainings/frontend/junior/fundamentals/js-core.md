@@ -14,8 +14,11 @@
 
 ## Tasks
 
+### Course
+> Watch [JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5) course.
+
 ### Portfolio site
->You will be provided with a design mockup and must replicate that design in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects Waverly is compleated.
+> You will be provided with a design mockup and must replicate that design in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects Waverly is compleated.
 
 ### Card matching game
->You need to build a complete browser-based card matching game (also known as Concentration). You will need to build a grid of cards, add functionality to handle user input, and implement gameplay logic -- this will require to combine all your web development skills to create a fully interactive experience for your users.
+> You need to build a complete browser-based card matching game (also known as Concentration). You will need to build a grid of cards, add functionality to handle user input, and implement gameplay logic -- this will require to combine all your web development skills to create a fully interactive experience for your users.
